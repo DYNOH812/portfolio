@@ -1,0 +1,19 @@
+{
+  "user": {
+    "repositories": {
+      "totalCount": 1,
+      "nodes": [
+        {
+          "name": "desktop-tutorial",
+          "url": "https://github.com/DYNOH812/desktop-tutorial",
+          "isPrivate": true,
+          "owner": {
+            "login": "DYNOH812",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/77109092?v=4",
+            "url": "https://github.com/DYNOH812"
+          }
+        }
+      ]
+    }
+  }
+}
